@@ -1,5 +1,5 @@
 # UC Berkeley Capstone Project By: Sridhar Kumar
-(Jupyter Notebook Link: )
+(Jupyter Notebook Link: https://github.com/SridharKumarUCB/Capstone_Project_SK_UCBERKELEY/blob/main/DetectingCreditCardFraud_SridharKumar_UC_Berkeley.ipynb)
 
 PROBLEM STATEMENT: 
 
